@@ -1,0 +1,8 @@
+﻿SilGeç (SwipeClean) is a lightweight, privacy-focused Android gallery cleaner designed to help you declutter your photo library with simple swipe gestures.
+
+Features:
+• Swipe Interface: Swipe right to keep a photo, swipe left to send it to the trash queue.
+• Monthly & Category Filtering: Organize and review your photos by month or inspect all media in manageable batches.
+• Confirmation Before Deletion: Review pending photos before permanently deleting them from your device.
+• 100% Offline & Private: No internet permission required. Zero ads, zero trackers, and zero telemetry.
+• Native Jetpack Compose: Modern, smooth Material 3 UI.
